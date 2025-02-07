@@ -5,15 +5,20 @@ I'm a passionate developer who loves building cool projects, learning new techno
 ## About Me
 
 - 🌱 **Learning:** Modern web development, cloud computing, and more!
+- 💼 **Working:** As a Software Developer at [AthenaAI](https://athenaai.co/)
+![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Archlinux-icon-crystal-64.svg)
 
 ## Skills & Technologies
 
-- **Languages:** Python, TypeScript
-- **Web Development:** Next.js, Node.js, HTML, CSS, Tailwind CSS
-- **Tools & Platforms:** ArchLinux, Neovim, Git, Docker 
-- **Databases:** MySQL, MariaDB, MongoDB
+- **Languages:** Python, Typescript, Go, C
+- **Web Development:** Next.js, React.js, HTML, CSS, HTMX
+- **Backend Development:** FastAPI, Gin, Express.js
+- **Dev Workflow:** _Archlinux_, Hyprland, tmux, Neovim, lazygit, lazydocker
+- **Architecture:** Microservices, Serverless, Cloud-Native
 - **Cloud:** AWS
-- **Architecture:** Microservices, Serverless
+- **Tools & Platforms:** Git, Docker 
+- **Databases:** MySQL, MariaDB, MongoDB
+- **Other:** GraphQL, CI/CD, GPRC 
 
 ## Connect with Me
 
