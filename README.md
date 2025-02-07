@@ -1,4 +1,4 @@
-# Hi, I'm **Prame Supakone Kongprapan** 👋
+# Hi, I'm **Prame** 👋
 
 I'm a passionate developer who loves building cool projects, learning new technologies, and solving real-world problems. Welcome to my GitHub profile where I share my work, thoughts, and collaborations.
 
